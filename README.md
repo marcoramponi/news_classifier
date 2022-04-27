@@ -5,6 +5,6 @@ Natural Language Processing models for document classification tasks.
 
 I used a baseline model via a pre-trained 50 dimensional word-embedding representation and a LSTM model 
 
-Data: trained the two models on a BBC archive of 2225 news articles (Kaggle). 
+Data: trained the two models on a BBC archive of 2225 news articles (BBC dataset, available on Kaggle). 
 
 The LSTM model reached 89% accuracy on the test set.
